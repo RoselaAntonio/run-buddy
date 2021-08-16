@@ -53,3 +53,6 @@ header {
   footer a {
       color: #024e76;
   }
+  section {
+      padding: 60px;
+  }
